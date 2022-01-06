@@ -3,7 +3,7 @@ anyjson==0.3.3
 appdirs==1.4.0
 boto3==1.7.67
 bottle==0.12.4
-celery==4.1.0
+celery==5.2.2
 celery[sqs]==4.1.0
 cffi==1.9.1
 configlib==2.0.4
